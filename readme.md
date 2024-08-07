@@ -1,4 +1,4 @@
-# Sistem Pendukung Keputusan Pemilihan Karyawan Terbaik Menggunakan Metode Simple Additive Weighting (SAW)
+# Sistem Pendukung Keputusan Pemilihan Karyawan Terbaik Menggunakan kombinasi Metode Simple Additive Weighting (SAW) dan Profile Matching
 
 
 ## Installation
