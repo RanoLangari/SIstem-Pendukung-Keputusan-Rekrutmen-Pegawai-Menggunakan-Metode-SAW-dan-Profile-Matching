@@ -1,0 +1,24 @@
+body {
+	background-image: url(../img/jumbotron.jpg);
+	background-size: contain;
+}
+.bg {
+	background-image: url(../img/jumbotron.jpg);
+	background-size: cover;
+}
+.cover-overlay {
+	z-index: 1;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.788);
+}
+
+.card {
+	font-family: "Poppins", sans-serif;
+	background-color: rgba(255, 255, 255, 0.877);
+	box-shadow: 0 2px 7px rgba(255, 255, 255, 0.486);
+}

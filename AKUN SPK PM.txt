@@ -1,0 +1,13 @@
+AKUN SPK PM
+
+manager
+
+email : manager@mail.com
+pass  : admin
+
+
+DIREKTUR
+
+email : admin@mail.com
+pass  : admin
+
