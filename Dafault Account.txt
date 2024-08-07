@@ -1,12 +1,10 @@
-AKUN SPK PM
-
-manager
+Manager
 
 email : manager@mail.com
 pass  : admin
 
 
-DIREKTUR
+Admin
 
 email : admin@mail.com
 pass  : admin
